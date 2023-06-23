@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yoga-dance-app/static/css/main.582098c5.css",
+    "main.js": "/yoga-dance-app/static/js/main.f6af7833.js",
+    "static/js/787.8c02a0ad.chunk.js": "/yoga-dance-app/static/js/787.8c02a0ad.chunk.js",
+    "index.html": "/yoga-dance-app/index.html",
+    "main.582098c5.css.map": "/yoga-dance-app/static/css/main.582098c5.css.map",
+    "main.f6af7833.js.map": "/yoga-dance-app/static/js/main.f6af7833.js.map",
+    "787.8c02a0ad.chunk.js.map": "/yoga-dance-app/static/js/787.8c02a0ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582098c5.css",
+    "static/js/main.f6af7833.js"
+  ]
+}
